@@ -19,7 +19,7 @@ I'm Hassan Attar, a passionate developer and tech enthusiast.
 - [Email](mailto:info@hassanattar.com)
 
 ### ⚡ Fun fact
-- I study Veterinary Medicine for 3 years before switching to Computer Science!
+- I studied Veterinary Medicine for 3 years before switching to Computer Science!
 <!--
 **hassan-attar/hassan-attar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
