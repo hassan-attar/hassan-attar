@@ -100,20 +100,18 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/vivek9patel">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hassan-attar&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hassan-attar&layout=compact&langs_count=8&theme=algolia"/>
-</a>
 </p>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<p>
+<div style="display: flex; align-items: center; justify-content: center; gap:10px">
   <a href="https://www.hassanattar.com/"><img src="https://img.shields.io/badge/hassanattar.com-000000?style=flat&logo=About.me&logoColor=white"/></a>
   <a href="mailto:h.a.develops@gmail.com"><img src="https://img.shields.io/badge/-h.a.develops@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
   <a href="https://www.fiverr.com/hassanattar496"><img src="https://img.shields.io/badge/fiverr-1DBF73?style=popout&logo=fiverr&logoColor=white"/></a>
 
-</p>
+</div>
 <div style="display: flex; align-items: center; justify-content: center;">
   <a href="https://x.com/hassan_attar_x" style="margin: 0 10px;" target="_">
     <img alt="Twitter" width="22px" src="./assets/x.svg" />
