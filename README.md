@@ -1,4 +1,5 @@
 <div align="center"><img src="./assets/preview.gif"/></div>
+
 ### 🛠 &nbsp;Tech Stack
 
 <!-- JS API/Backend/Services -->
@@ -108,31 +109,25 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p>
-  <a href="mailto:h.a.develops@gmail.com"><img src="https://img.shields.io/badge/-h.a.develops@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/hassanattar"><img src="https://img.shields.io/badge/-hassanattar-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-  <a href="https://www.fiverr.com/hassanattar496"><img src="https://img.shields.io/badge/fiverr-1DBF73?style=popout&logo=fiverr&logoColor=white"/></a>
   <a href="https://www.hassanattar.com/"><img src="https://img.shields.io/badge/hassanattar.com-000000?style=flat&logo=About.me&logoColor=white"/></a>
+  <a href="mailto:h.a.develops@gmail.com"><img src="https://img.shields.io/badge/-h.a.develops@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+  <a href="https://www.fiverr.com/hassanattar496"><img src="https://img.shields.io/badge/fiverr-1DBF73?style=popout&logo=fiverr&logoColor=white"/></a>
+
 </p>
-
-<a href="https://twitter.com/arif_szn">
-  <img align="left" alt="Twitter" width="22px" src="./assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/ariful-alam">
-  <img align="left" alt="LinkedIn" width="22px" src="./assets/linkedin.svg" />
-</a>
-<a href="https://www.facebook.com/swozon">
-  <img align="left" alt="Facebook" width="22px" src="./assets/facebook.svg" />
-</a>
-<a href="https://dev.to/arifszn">
-  <img align="left" alt="Dev" width="22px" src="./assets/dev.svg" />
-</a>
-<a href="https://medium.com/@arifszn">
-  <img align="left" alt="Medium" width="22px" src="./assets/medium.svg" />
-</a>
-<a href="mailto:arifulalamszn@gmail.com">
-  <img align="left" alt="Mail" width="22px" src="./assets/gmail.svg" />
-</a>
-
+<div style="display: flex; align-items: center; justify-content: center;">
+  <a href="https://x.com/hassan_attar_x" style="margin: 0 10px;" target="_">
+    <img alt="Twitter" width="22px" src="./assets/x.svg" />
+  </a>
+  <a href="https://www.linkedin.com/in/hassan-attar" style="margin: 0 10px;" target="_">
+    <img alt="LinkedIn" width="22px" src="./assets/linkedin.svg" />
+  </a>
+  <a href="https://dev.to/hassan-attar" style="margin: 0 10px;" target="_">
+    <img alt="Dev" width="22px" src="./assets/dev.svg" />
+  </a>
+  <a href="https://medium.com/@hassan-attar" style="margin: 0 10px;" target="_">
+    <img alt="Medium" width="22px" src="./assets/medium.svg" />
+  </a>
+</div>
 
 <p align="center"> 
   <img align="center" src="https://komarev.com/ghpvc/?username=hassan-attar&color=blue&style=flat" alt="hassan attar profile views" />
