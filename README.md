@@ -119,10 +119,10 @@
     <img alt="LinkedIn" width="22px" src="./assets/linkedin.svg" />
   </a>
   <a href="https://dev.to/hassan-attar" style="margin: 0 10px;" target="_blank">
-    <img alt="Dev" width="24px" src="./assets/dev.svg" />
+    <img alt="Dev" width="22px" src="./assets/dev.svg" />
   </a>
   <a href="https://medium.com/@hassan-attar" style="margin: 0 10px;" target="_blank">
-    <img alt="Medium" width="24px" src="./assets/medium.svg" />
+    <img alt="Medium" width="22px" src="./assets/medium.svg" />
   </a>
 </div>
 
