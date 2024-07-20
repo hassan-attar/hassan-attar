@@ -1,4 +1,4 @@
-![](./preview.gif)
+<div align="center"><img src="./preview.gif"/></div>
 ### 🛠 &nbsp;Tech Stack
 
 <!-- JS API/Backend/Services -->
