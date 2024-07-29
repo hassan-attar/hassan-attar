@@ -107,7 +107,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <div style="display: flex; align-items: center; justify-content: center; gap:10px" align="center">
-  <a href="https://www.hassanattar.com/"><img src="https://img.shields.io/badge/hassanattar.com-000000?style=flat&logo=About.me&logoColor=white"/></a>
+<!--   <a href="https://www.hassanattar.com/"><img src="https://img.shields.io/badge/hassanattar.com-000000?style=flat&logo=About.me&logoColor=white"/></a> -->
   <a href="mailto:h.a.develops@gmail.com"><img src="https://img.shields.io/badge/-h.a.develops@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
   <a href="https://www.fiverr.com/hassanattar496"><img src="https://img.shields.io/badge/fiverr-1DBF73?style=popout&logo=fiverr&logoColor=white"/></a>
 
